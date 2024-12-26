@@ -1,1 +1,1 @@
-export const USER_API_END_POINT="http://localhost:5500/user"
+export const USER_API_END_POINT="https://chatapp-backend-1lel.onrender.com"
